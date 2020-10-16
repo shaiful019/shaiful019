@@ -1,9 +1,4 @@
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <br>
 <br>
@@ -11,9 +6,6 @@
 <img src="ml.gif" alt="Machine Learning">
 </p>
 
-
-<br>
-<br>
 <br>
 <br>
 <br>
