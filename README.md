@@ -8,7 +8,7 @@
 <br>
 <br>
 <p align = "center">
-<img src="ml.gif" alt="Machine Learning" width="100">
+<img src="ml2.gif" alt="Machine Learning" width="120">
 <img src="python.gif" alt="Machine Learning" width="100">
 
 </p>
